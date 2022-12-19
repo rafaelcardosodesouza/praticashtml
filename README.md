@@ -1,0 +1,3 @@
+Esse arquivo é destinado para treino, sera classificado por dias de treino, dia 1 = treino1 / dia 2 = treino2...
+
+os arquivos salvos em ./style seguira os mesmo padrão. dia 1 = treino1.css / dia 2 = treino2.css

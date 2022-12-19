@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+
+.p1{
+    color: azure;
+}
+.p1:hover{
+    color: blue;
+}
